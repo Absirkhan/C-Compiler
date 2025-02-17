@@ -1,0 +1,4 @@
+intr @x = 3;
+float y = 12a;
+string hi = "yo";
+/*
